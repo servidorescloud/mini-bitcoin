@@ -5,7 +5,7 @@ class K {
 	// --------------------------------------------
 	static int PORT = 10770;
 	static final String GENESIS_MSG = "BYGU.NET COIN MD TEAM";
-	static final long START_TIME = 1577847600000L;// System.currentTimeMillis();// 1577847600000L; // 2020-01-01
+	static final long START_TIME = 1594263600000L;// System.currentTimeMillis();// 1577847600000L; // 2020-01-01
 	static String[] SEEDS = { "localhost" };
 	// --------------------------------------------
 	static final long BLOCK_TIME = 2 * 60 * 1000; // 2 minutes
